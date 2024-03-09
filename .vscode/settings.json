@@ -1,0 +1,11 @@
+{
+  "tailwindCSS.experimental.classRegex": [
+    [
+      "cva\\(([^)]*)\\)",
+      "[\"'`]([^\"'`]*).*?[\"'`]"
+    ]
+  ],
+  "cSpell.words": [
+    "upsert"
+  ]
+}
